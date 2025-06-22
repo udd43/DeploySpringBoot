@@ -5,7 +5,7 @@ import lombok.*;
 
 @Getter
 @Setter
-//@NoArgsConstructor!
+//@NoArgsConstructor
 //@AllArgsConstructor
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor(access = AccessLevel.PRIVATE)
